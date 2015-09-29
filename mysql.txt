@@ -1,0 +1,2 @@
+mysql -u soluex -pSoluex123 -h localhost ecommerce
+
